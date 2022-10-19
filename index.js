@@ -14,7 +14,7 @@ var isgameOver = false // Declearing the game state
 
 while (!isgameOver) {
   var guessedNumber = Math.round(Math.random() * range)
-  console.log(guessedNumber)
+  // console.log(guessedNumber)
   console.log(`Stage: ${stage}\nTotal game point: ${point}`)
 
   var numberGuess = prompt(`Kindly guess a number from 1 to ${range}: `)
