@@ -1,0 +1,23 @@
+{
+  "name": "number-guessing-game",
+  "version": "1.0.0",
+  "description": "Zuri Training Cohort II week four task for NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/me-rodev/number-guessing-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/me-rodev/number-guessing-game/issues"
+  },
+  "homepage": "https://github.com/me-rodev/number-guessing-game#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
