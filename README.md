@@ -1,7 +1,7 @@
 # Number-guessing-game
 Zuri Training Cohort II week four task for NodeJS
 
-Replit URL: 
+Replit URL: https://replit.com/@me-rodev/number-guessing-game#index.js
 
 Task Title: Week 4 NodeJS Task: Inheritance, Functions / Arrow Functions, Cookies, Promises and Async
 
